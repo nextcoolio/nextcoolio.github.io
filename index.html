@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+
 <head>
   <!-- =====================================================
        CORE META
@@ -14,8 +15,7 @@
   <meta name="description"
     content="Next Coolio is an online HTML5 browser gaming platform where you can play games instantly with no downloads, no installations, and no plugins. Fast, secure, browser-based gaming." />
 
-  <meta name="keywords"
-    content="
+  <meta name="keywords" content="
       play html5 games,
       html5 games online,
       browser games,
@@ -102,13 +102,21 @@
        SECURITY (UNCHANGED)
   ====================================================== -->
   <meta http-equiv="Content-Security-Policy" content="
-    default-src 'self';
-    script-src 'self' 'unsafe-inline';
-    style-src 'self' 'unsafe-inline';
-    img-src 'self' data:;
-    frame-src https://nextcoolioserver.tailc3fb38.ts.net;
-    connect-src 'self' https://nextcoolioserver.tailc3fb38.ts.net;
-  ">
+  default-src 'self';
+  script-src 'self';
+  style-src 'self' 'unsafe-inline';
+  img-src 'self' data: https:;
+  font-src 'self' https:;
+  connect-src
+    'self'
+    https://nextcoolioserver.tailc3fb38.ts.net
+    https://discord.com
+    https://discordapp.com
+    https://cdn.discordapp.com;
+  frame-src
+    https://nextcoolioserver.tailc3fb38.ts.net;
+">
+
   <script type="module" crossorigin src="/assets/index-Dc1ENFvS.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/index-Bte7XUx-.css">
 </head>
@@ -119,8 +127,7 @@
        SEO LANDING CONTENT (ULTRA AGGRESSIVE, PURPOSEFUL)
        Acts as multiple “landing routes” for crawlers
   ====================================================== -->
-  <div id="seo-content"
-    style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;">
+  <div id="seo-content" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;">
 
     <h1>Play HTML5 Games Online in Your Browser – Next Coolio</h1>
 
@@ -194,4 +201,5 @@
   ====================================================== -->
 
 </body>
+
 </html>
