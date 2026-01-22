@@ -1,169 +1,178 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://nextcoolio.github.io/</loc><priority>1.0</priority></url>
-<url><loc>https://nextcoolio.github.io/privacy</loc><priority>0.3</priority></url>
-<url><loc>https://nextcoolio.github.io/termsofservice</loc><priority>0.3</priority></url>
-<url><loc>https://nextcoolio.github.io/creator</loc><priority>0.4</priority></url>
-<url><loc>https://nextcoolio.github.io/c/all</loc><priority>0.9</priority></url>
-<url><loc>https://nextcoolio.github.io/c/hot</loc><priority>0.9</priority></url>
-<url><loc>https://nextcoolio.github.io/c/sport</loc><priority>0.9</priority></url>
-<url><loc>https://nextcoolio.github.io/c/car</loc><priority>0.9</priority></url>
-<url><loc>https://nextcoolio.github.io/c/parkour</loc><priority>0.9</priority></url>
-<url><loc>https://nextcoolio.github.io/c/retro</loc><priority>0.9</priority></url>
-<url><loc>https://nextcoolio.github.io/c/shooting</loc><priority>0.9</priority></url>
-<url><loc>https://nextcoolio.github.io/c/singleplayer</loc><priority>0.9</priority></url>
-<url><loc>https://nextcoolio.github.io/c/multiplayer</loc><priority>0.9</priority></url>
-<url><loc>https://nextcoolio.github.io/c/iq</loc><priority>0.9</priority></url>
-<url><loc>https://nextcoolio.github.io/g/bloons-td-2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/superhot</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/slope-3</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/learn-to-fly-3</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/riddle-transfer-2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/super-liquid-soccer</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/chicken-jockey-clicker</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/gun-mayhem</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/tomb-of-the-mask</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/spacebar-clicker</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/this-is-the-only-level-2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/time-shooter-3</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/riddle-school-4</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/learn-to-fly</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/learn-to-fly-idle</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/stacktris</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/gun-spin</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/football-legends</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/tanuki-sunset</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/tag</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/deadly-decent</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/bitlife</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/cookie-clicker</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/bloons-td-1</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/eaglercraft-1.11.2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/only-up</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/space-invaders</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/1.8.8</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/yohoho</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/among-us</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/gladihoppers</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/riddle-school-2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/achievement-unlocked-2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/cluster-rush</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/draw-the-hill</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/just-fall</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/papas-pizzaria</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/achievement-unlocked</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/escape-the-closet</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/stealing-the-diamond</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/boxing-random</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/retro-bowl</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/snow-ball-io</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/papas-freezeria</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/2048</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/monkey-mart</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/raft-wars</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/escaping-the-prison</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/fnaf</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/rogue-soul-2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/eggy-car</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/flappy-bird</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/polytrack</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/ultimate-chess</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/submachine-4</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/ice-dodo</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/bloons</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/drift-boss</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/basket-random</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/rogue-soul</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/tetris</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/chrome-dino</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/ultimate-car-driving</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/age-of-war-hacked</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/escape-the-bathroom</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/submachine-9</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/super-mario-64</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/soccer-random</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/topguns.io</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/slope</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/tunnel-rush</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/temple-run-2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/escape-the-phonebooth</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/submachine</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/cat-ninja</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/fnaf2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/flash-chess</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/stickman-hook</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/escape-the-shack</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/learn-to-fly-2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/stickman-gta-city</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/duck-life</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/fnaf4</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/age-of-war</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/fnaf3</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/submachine-8</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/curveball</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/drive-mad</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/1v1.lol</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/n-gon</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/getaway-shootout</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/submachine-7</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/bloons-td-4</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/the-impossible-quiz</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/achievement-unlocked-3</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/timeshooter</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/stick-war</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/viking-clash</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/rocket-league</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/ovo</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/submachine-6</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/submachine-0</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/escape-the-car</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/csgo</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/escaperoadcity</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/levil-devil</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/submachine-3</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/slow-roads-io</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/basketball-legends</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/submachine-5</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/submachine-32-chambers</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/escaperoad2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/pikachu-volleyball</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/war-strike</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/this-is-the-only-level</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/bloons-td-3</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/doge-miner</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/armed-forces-io</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/bloxorz</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/dune</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/snow-rider</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/vex-7</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/duck-life-3</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/breaking-the-bank</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/riddle-school-5</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/block-blast</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/gun-mayhem-2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/subway-surfers</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/paperio2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/tiny-fishing</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/escaperoadcitycity</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/launcha-libre</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/elastic-man</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/factory-balls</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/mario-game</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/doodle-jump</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/riddle-school</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/x-trench-run</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/duck-life-2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/escape-the-freezer</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/riddle-transfer</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/raft-wars-2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/sugar-sugar</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/crossy-road</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/submachine-2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/aquapark.io</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/creative-kill-chamber</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/run-3</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/slope-2</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/riddle-school-3</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/submachine-flf</loc><priority>0.95</priority></url>
-<url><loc>https://nextcoolio.github.io/g/ovo-2</loc><priority>0.95</priority></url>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://nextcoolio.github.io/</loc><priority>1.0</priority></url>
+  <url><loc>https://nextcoolio.github.io/privacy</loc><priority>0.3</priority></url>
+  <url><loc>https://nextcoolio.github.io/termsofservice</loc><priority>0.3</priority></url>
+  <url><loc>https://nextcoolio.github.io/creator</loc><priority>0.4</priority></url>
+  <url><loc>https://nextcoolio.github.io/c/all</loc><priority>0.9</priority></url>
+  <url><loc>https://nextcoolio.github.io/c/hot</loc><priority>0.9</priority></url>
+  <url><loc>https://nextcoolio.github.io/c/sport</loc><priority>0.9</priority></url>
+  <url><loc>https://nextcoolio.github.io/c/car</loc><priority>0.9</priority></url>
+  <url><loc>https://nextcoolio.github.io/c/parkour</loc><priority>0.9</priority></url>
+  <url><loc>https://nextcoolio.github.io/c/retro</loc><priority>0.9</priority></url>
+  <url><loc>https://nextcoolio.github.io/c/shooting</loc><priority>0.9</priority></url>
+  <url><loc>https://nextcoolio.github.io/c/singleplayer</loc><priority>0.9</priority></url>
+  <url><loc>https://nextcoolio.github.io/c/multiplayer</loc><priority>0.9</priority></url>
+  <url><loc>https://nextcoolio.github.io/c/iq</loc><priority>0.9</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/bloons-td-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/superhot</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/slope-3</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/learn-to-fly-3</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/riddle-transfer-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/super-liquid-soccer</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/chicken-jockey-clicker</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/gun-mayhem</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/tomb-of-the-mask</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/spacebar-clicker</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/this-is-the-only-level-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/time-shooter-3</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/riddle-school-4</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/learn-to-fly</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/learn-to-fly-idle</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/stacktris</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/gun-spin</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/football-legends</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/tanuki-sunset</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/tag</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/deadly-decent</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/bitlife</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/cookie-clicker</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/bloons-td-1</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/eaglercraft-1.11.2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/only-up</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/space-invaders</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/1.8.8</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/yohoho</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/among-us</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/gladihoppers</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/riddle-school-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/achievement-unlocked-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/cluster-rush</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/draw-the-hill</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/just-fall</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/papas-pizzaria</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/achievement-unlocked</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/escape-the-closet</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/stealing-the-diamond</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/boxing-random</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/retro-bowl</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/snow-ball-io</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/papas-freezeria</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/2048</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/monkey-mart</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/raft-wars</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/escaping-the-prison</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/fnaf</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/rogue-soul-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/eggy-car</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/flappy-bird</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/polytrack</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/ultimate-chess</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/submachine-4</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/ice-dodo</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/bloons</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/drift-boss</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/basket-random</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/rogue-soul</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/tetris</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/chrome-dino</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/ultimate-car-driving</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/age-of-war-hacked</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/escape-the-bathroom</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/submachine-9</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/super-mario-64</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/soccer-random</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/topguns.io</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/slope</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/tunnel-rush</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/temple-run-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/escape-the-phonebooth</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/submachine</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/cat-ninja</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/fnaf2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/flash-chess</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/stickman-hook</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/escape-the-shack</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/learn-to-fly-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/stickman-gta-city</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/duck-life</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/fnaf4</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/age-of-war</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/fnaf3</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/submachine-8</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/curveball</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/drive-mad</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/1v1.lol</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/n-gon</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/getaway-shootout</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/submachine-7</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/bloons-td-4</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/the-impossible-quiz</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/achievement-unlocked-3</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/timeshooter</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/stick-war</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/viking-clash</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/rocket-league</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/ovo</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/submachine-6</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/submachine-0</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/escape-the-car</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/csgo</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/escaperoadcity</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/levil-devil</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/submachine-3</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/slow-roads-io</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/basketball-legends</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/submachine-5</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/submachine-32-chambers</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/escaperoad2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/pikachu-volleyball</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/war-strike</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/this-is-the-only-level</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/bloons-td-3</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/doge-miner</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/armed-forces-io</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/bloxorz</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/dune</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/snow-rider</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/vex-7</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/duck-life-3</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/breaking-the-bank</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/riddle-school-5</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/block-blast</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/gun-mayhem-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/subway-surfers</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/paperio2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/tiny-fishing</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/escaperoadcitycity</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/launcha-libre</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/elastic-man</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/factory-balls</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/mario-game</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/doodle-jump</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/riddle-school</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/x-trench-run</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/duck-life-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/escape-the-freezer</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/riddle-transfer</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/raft-wars-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/sugar-sugar</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/crossy-road</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/submachine-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/aquapark.io</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/creative-kill-chamber</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/run-3</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/slope-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/riddle-school-3</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/submachine-flf</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/ovo-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/bob-the-robber-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/bob-the-robber</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/bow-masters</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/motox3m-poolparty</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/motox3m-spookyland</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/motox3m-winter</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/worlds-hardest-game-2</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/rooftop-snipers</loc><priority>0.95</priority></url>
+  <url><loc>https://nextcoolio.github.io/g/deepest-sword</loc><priority>0.95</priority></url>
 </urlset>
